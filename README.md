@@ -1,2 +1,28 @@
 # miniShell
-miniShell implementation in C
+* miniShell implementation in C
+
+## Building
+```bash
+make
+```
+
+## Usage
+```bash
+./minishell <command> - on Linux
+```
+
+## Built in commands
+```bash
+help - list of built in commands
+cd <dir> - change directories
+mkdir <dir> - create directories
+dir - lists the files and folders
+clear - clear screen escape sequence
+cp <src> <dest> - create copies of files and directories across a filesystem
+touch <name> - create a new empty file
+```
+
+* Also support pipe line commands
+
+## External commands
+* Support most external commands
