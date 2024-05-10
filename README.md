@@ -14,6 +14,7 @@ make
 ## Built in commands
 ```bash
 help - list of built in commands
+exit - exit from minishell
 cd <dir> - change directories
 mkdir <dir> - create directories
 dir - lists the files and folders
