@@ -8,7 +8,7 @@ make
 
 ## Usage
 ```bash
-./minishell <command> - on Linux
+./minishell - on Linux
 ```
 
 ## Built in commands
