@@ -1,5 +1,5 @@
 # miniShell
-* miniShell implementation in C
+* miniShell implementation
 
 ## Building
 ```bash
